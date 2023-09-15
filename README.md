@@ -1,5 +1,5 @@
 <!-- gatinho --> 
-<img src="/gif1.gif">
+<img src="/gif1.gif" height="200">
 <!-- linguagens -->
 <h3>intermediário</h3>
   <img src="/GameMaker_Logo_BlackTransparent.png" height="80">
