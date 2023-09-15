@@ -1,7 +1,7 @@
 <!-- gatinho --> 
 <img src="/gif1.gif">
 <!-- linguagens -->
-<h3>avançado</h3>
+<h3>intermediário</h3>
   <img src="/GameMaker_Logo_BlackTransparent.png" height="60">
 <h3>básico</h3>
   <!-- java --> 
