@@ -2,7 +2,7 @@
 <img src="/gif1.gif">
 <!-- linguagens -->
 <h3>intermediário</h3>
-  <img src="/GameMaker_Logo_BlackTransparent.png" height="100">
+  <img src="/GameMaker_Logo_BlackTransparent.png" height="80">
 <h3>básico</h3>
   <!-- java --> 
   <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" width="50" height="50" />
