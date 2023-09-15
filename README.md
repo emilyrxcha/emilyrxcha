@@ -3,12 +3,12 @@
 <!-- linguagens -->
 <h3>intermediário</h3>
   <img src="/GameMaker_Logo_BlackTransparent.png" height="80">
-<h3>básico</h3>
+<h4>básico</h4>
   <!-- java --> 
   <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" width="50" height="50" />
   <!-- php --> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="50" height="50" />
-<h3>iniciante</h3>
+<h4>iniciante</h4>
   <!-- javascript --> 
   <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50" height="50" />
   <!-- dart --> 
