@@ -1,20 +1,20 @@
 <!-- gatinho --> 
 <img src="/gif1.gif" height="200">
 <!-- linguagens -->
+<!--
 <h3>avançado</h3>
+-->
   <!-- gml -->
   <img  src="/GameMaker_Logo_BlackTransparent.png" height="80">
+<!--
 <h4>intermediário</h4>
-  <!-- java --> 
   <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" width="50" height="50" />
 <h4>básico</h4>
-  <!-- php --> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="50" height="50" />
 <h4>iniciante</h4>
-  <!-- javascript --> 
   <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50" height="50" />
-  <!-- dart --> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" width="50" height="50" />
+-->
 <!--
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="30" height="30" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain.svg" width="30" height="30" /> 
