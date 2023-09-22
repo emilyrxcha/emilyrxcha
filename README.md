@@ -5,7 +5,7 @@
 <h3>avançado</h3>
 -->
   <!-- gml -->
-  <img  src="/GameMaker_Logo_BlackTransparent.png" height="80">
+  <img  src="/GameMaker_Logo_BlackTransparent.png" height="60">
 <!--
 <h4>intermediário</h4>
   <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" width="50" height="50" />
