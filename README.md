@@ -1,3 +1,8 @@
+<head>
+  <link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+<body>
+<div class = conteudo>
 <!-- gatinho --> 
 <img src="/gif1.gif" height="200">
 <!-- linguagens -->
@@ -30,4 +35,5 @@
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="30" height="30" />
 -->
-
+</div>
+</body>
