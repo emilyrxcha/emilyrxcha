@@ -2,7 +2,7 @@
   <link rel="stylesheet" type="text/css" href="style.css" />
 </head>
 <body>
-<div class = conteudo>
+<div class = "conteudo">
 <!-- gatinho --> 
 <img src="/gif1.gif" height="200">
 <!-- linguagens -->
